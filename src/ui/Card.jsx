@@ -2,7 +2,7 @@
 
 function Card({ paragraph, img, name, place }) {
     return (
-        <div className="p-8 m-3 lg:m-0 bg-[#1F1F1F] w-full md:w-auto">
+        <div className="p-8 m-0 md:m-3 lg:m-0 bg-[#1F1F1F] w-full md:w-auto">
             <p className="text-white text-5xl my-10">``</p>
             <p className="text-lg md:text-2xl text-[#FFFFFF] italic mb-6">
                 {paragraph}

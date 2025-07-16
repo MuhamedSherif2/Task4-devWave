@@ -14,7 +14,7 @@ function Customers() {
                         What Our Customers Say About Us
                     </h2>
                 </div>
-                <div className="grid grid-cols-1 lg:grid-cols-2 xl:flex gap-8 xl:absolute xl:top-[220px] xl:left-[300px]">
+                <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 top-0 left-0 xl:absolute xl:top-[220px] xl:left-[300px]">
                     <Card
                         paragraph="Working with your design team was an absolute pleasure. The attention to detail and creativity exceeded my expectations. Thank you for making my home beautiful!"
                         img={ImgSophie}
